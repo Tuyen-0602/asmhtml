@@ -1,0 +1,72 @@
+*{
+    font-family: 'Roboto', sans-serif; 
+}
+body {
+    background-color: #ECE5C7;
+}
+
+.bg-coupon {
+    width: 100%;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+b {
+
+    color: #FF5B00;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+margin-bottom: 20px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+
+.about{
+    width: 100%;
+}
+.about .about-text {
+    width: 750px;
+}
+
+.about .year {
+  text-align: center;
+    width: 100%;
+    height: 30px;
+}
+.year-s .year-img{
+    width: 100%;
+    margin-top: 30px;
+   
+}
+.content{
+    display: flex;
+    margin-top: 20px;
+}
+.content .content-left{
+    background-color: #EFDAD7;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.content .content-text{
+    margin: 20px;
+    background-color: #EFDAD7;
+}
+.content  .years-old{
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    color: #777171;
+}
+.content .content-img{
+    display: flex;
+    margin-right: 20px;
+    margin-left: 20px;
+}
